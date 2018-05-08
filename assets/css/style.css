@@ -76,3 +76,14 @@ body {
     background: #4aaaa5;
     border-bottom: 0;
   }
+
+  button[type=submit] {
+    margin-top: 8px;
+    margin-bottom: 10px;
+    padding: 10px 30px;
+    font-size: 18px;
+    color: #fff;
+    cursor: pointer;
+    background: #4aaaa5;
+    border: 0 none;
+  }
